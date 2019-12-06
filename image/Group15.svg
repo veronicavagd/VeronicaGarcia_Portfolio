@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1340px" height="1021px" viewBox="0 0 1340 1021" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-2" transform="translate(0.000000, -536.000000)">
+            <g id="Group-15" transform="translate(-19.000000, 520.000000)">
+                <path d="M0.5,0.5 L0.5,1035.9047 L1194.66009,0.5 L0.5,0.5 Z" id="Rectangle-Copy-6" stroke="#979797" fill="#000000" transform="translate(598.000000, 518.500000) scale(1, -1) translate(-598.000000, -518.500000) "></path>
+                <polygon id="Rectangle" fill="#FFFFFF" points="240 366 425.428141 366 550 474 240 474"></polygon>
+                <path d="M418.5,366.5 L418.5,473.5 L726.659991,473.5 L603.241575,366.5 L418.5,366.5 Z" id="Rectangle" stroke="#979797" fill="#000000" transform="translate(573.000000, 420.000000) scale(-1, -1) translate(-573.000000, -420.000000) "></path>
+                <polygon id="Triangle" fill="#FFFFFF" points="281.5 698 457 920 106 920"></polygon>
+                <circle id="Oval" fill="#81D8D0" cx="457.5" cy="901.5" r="92.5"></circle>
+                <rect id="Rectangle" fill="#FFCA25" x="395" y="571" width="379" height="43"></rect>
+                <polygon id="Rectangle" fill="#FCB2BF" points="654 943 1091.13819 943 1166 1011 654 1011"></polygon>
+                <polygon id="Rectangle" fill="#000000" transform="translate(1236.500000, 981.000000) scale(-1, -1) translate(-1236.500000, -981.000000) " points="1114 944 1282.97049 944 1359 1018 1114 1018"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
